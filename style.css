@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
+
+body {
+  font-family: 'EB Garamond', serif;
+}
+
+#logo {
+    margin: 0 auto;
+    height: 60%;
+    width: 60%;
+}
+
+#castle {
+    height: 50%;
+    width: 50%;
+    padding: 10px 0;
+}
+
+img {
+    height: 50%;
+    width: 50%;
+    border-radius: 10%;
+}
+
+h1 {
+    text-align: center;
+    font-size: 60px;
+}
+
+h3 {
+    font-size: 50px;
+    text-align: center;
+}
+
+p {
+    font-size: 25px;
+    font-family: 'EB Garamond', serif;
+}
+
+
+.container {
+  text-align: center;
+}
+
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: black;
+    font-size: 20px;
+}
+
+.carousel-inner img {
+    height: 50%;
+    width: 300px;
+}
